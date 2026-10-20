@@ -1,0 +1,14 @@
+data/*
+!data/sample_real_sources.csv
+output/
+*.db
+*.sqlite
+.env
+.env.*
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
